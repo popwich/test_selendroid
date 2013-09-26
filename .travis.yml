@@ -3,7 +3,8 @@ language: java
 jdk: oraclejdk7
 
 notifications:
-  email: popwich@yahoo.com
+  email: 
+      - popwich@yahoo.com
   irc:
       - "chat.freenode.net#selendroid"
 
